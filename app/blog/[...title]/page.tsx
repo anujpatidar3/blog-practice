@@ -1,0 +1,5 @@
+export default function Slug() {
+    return (
+        <div>Slug Page</div>
+    )
+}
